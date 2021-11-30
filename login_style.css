@@ -1,0 +1,54 @@
+label {
+	display: block;
+	font-size: 13px;
+margin-bottom: 10px;
+margin-top: 10px;
+}
+a {
+	text-decoration: none;
+}
+
+* {
+	font-family: sans-serif;
+	padding: 0;
+	margin: 0;
+}
+input {
+	width: 95%;
+padding: 5px;
+outline: none;
+}
+.column {
+	width: 40%;
+min-width: 300px;
+display: inline-block;
+vertical-align: top;
+}
+.login_column, .reg_column {
+	width: 300px;
+	margin-right: auto;
+	margin-left: auto;
+}
+.submit_btn button {
+	width: 100%;
+padding: 5px;
+border-radius: 4px;
+margin-top: 19px;
+background: #1c1b50;
+height: 40px;
+color: #fff;
+cursor: pointer;
+border: none;
+}
+
+.signup_submit button {
+	width: 100%;
+padding: 5px;
+border-radius: 4px;
+margin-top: 19px;
+background: #5e5bcd;
+height: 40px;
+color: #fff;
+cursor: pointer;
+border: none;
+}
